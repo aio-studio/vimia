@@ -1,0 +1,20 @@
+name: Auto-merge de users autorizados
+
+on:
+  pull_request_target:
+    types: [opened, reopened, ready_for_review]
+
+jobs:
+  auto-merge:
+    if: >-
+      !github.event.pull_request.draft &&
+      contains(fromJSON('["SimaoQuintela","quantik-git","MrNameless10"]'), github.event.pull_request.user.login)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Aprovar e fazer merge como v99ribeiro
+        env:
+          GH_TOKEN: ${{ secrets.AUTO_MERGE_TOKEN }}
+          PR: ${{ github.event.pull_request.html_url }}
+        run: |
+          gh pr review "$PR" --approve
+          gh pr merge "$PR" --auto --merge
