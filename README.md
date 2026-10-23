@@ -81,7 +81,7 @@ Queremos que, em Guimarães, tratar de um assunto com a Câmara comece sempre da
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/equipa-escuro.svg">
-  <img src="assets/equipa-claro.svg" width="100%" alt="Miguel Freitas, estudante de Ciências da Computação. Simão Quintela, mestrando em Matemática e Computação. Vítor Ribeiro, developer na Play Solana.">
+  <img src="assets/equipa-claro.svg" width="100%" alt="Miguel Freitas, estudante de Ciências da Computação. Simão Quintela, mestre em Matemática e Computação. Vítor Ribeiro, developer na Play Solana.">
 </picture>
 
 <p align="center"><sub>
