@@ -31,7 +31,7 @@ A informação para tratar de um assunto com a Câmara existe, mas está espalha
 
 ### <img src="assets/icons/conversa.svg" width="28" align="center" alt=""> &nbsp;Comece pelo que precisa de fazer
 
-<img src="assets/telemovel-conversa.png" width="250" align="right" alt="Conversa com a VIMIA no telemóvel, com as fontes consultadas e o atalho para preencher o formulário.">
+<img src="assets/conversa.png" width="270" align="right" alt="Conversa real com a VIMIA no telemóvel: a pergunta sobre o número de porta, a pesquisa nos documentos da Câmara, a resposta com taxas e fontes e o atalho para preencher o formulário oficial.">
 
 > A minha casa ainda não tem número de porta. Como peço um?
 
@@ -55,9 +55,9 @@ A VIMIA apresenta-se como inteligência artificial desde a primeira mensagem e s
 
 ### <img src="assets/icons/empresas.svg" width="28" align="center" alt=""> &nbsp;VIMIA Empresas
 
-O primeiro servidor MCP municipal do país. As empresas ligam o ERP, a gestão documental ou o seu próprio agente de IA à VIMIA e tratam de licenciamentos, obras e ocupação da via pública sem sair dos sistemas que já usam.
+As empresas já trabalham com o ChatGPT, o Copilot, o Gemini ou o Claude. Com o primeiro servidor MCP municipal do país, esses agentes passam a tratar dos pedidos à Câmara a partir dos sistemas da própria empresa: identificam o procedimento, juntam os documentos e preparam o pedido. Uma pessoa só tem de confirmar.
 
-Cada pedido chega completo e rastreável, com autenticação oficial e confirmação humana. Menos burocracia, mais razões para instalar a sede em Guimarães.
+Menos burocracia, mais razões para instalar a sede em Guimarães.
 
 ### <img src="assets/icons/telemovel.svg" width="28" align="center" alt=""> &nbsp;Feita em Guimarães
 
@@ -78,6 +78,8 @@ Queremos que, em Guimarães, tratar de um assunto com a Câmara comece sempre da
 </p>
 
 ### <img src="assets/icons/equipa.svg" width="28" align="center" alt=""> &nbsp;A equipa
+
+Somos a [AIO Studio](https://aiostudio.xyz), um estúdio digital de Guimarães, e vamos continuar a VIMIA depois do hackathon.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/equipa-escuro.svg">
