@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 190" width="540" height="190" role="img" aria-label="VIMIA">
+<style>
+  .traco{stroke-dasharray:1;animation:escrever .7s cubic-bezier(.6,0,.2,1) backwards}
+  .entra{transform-box:fill-box;transform-origin:30% 100%;animation:entrar .9s .7s cubic-bezier(.3,1.5,.5,1) backwards}
+  .ola{transform-box:fill-box;transform-origin:20% 100%;animation:acenar 7s 1.6s ease-in-out infinite}
+  .flutua{animation:flutuar 3.6s ease-in-out infinite}
+  .olhos{transform-box:fill-box;transform-origin:50% 70%;animation:piscar 4.8s 2.4s infinite}
+  .brilho{transform-box:fill-box;transform-origin:center;animation:brilhar 2.4s ease-in-out infinite}
+  @keyframes escrever{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+  @keyframes entrar{from{transform:translateY(24px) scale(.4);opacity:0}to{transform:none;opacity:1}}
+  @keyframes acenar{0%,58%,100%{transform:none}63%{transform:rotate(-9deg)}69%{transform:rotate(7deg)}75%{transform:rotate(-5deg)}81%{transform:rotate(3deg)}87%{transform:none}}
+  @keyframes flutuar{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+  @keyframes piscar{0%,44%,52%,100%{transform:none}48%{transform:scaleY(.15)}}
+  @keyframes brilhar{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.6);opacity:.65}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<g transform="translate(-18 20)"><polyline class="traco" style="animation-delay:0.08s" pathLength="1" points="33.5,24 63.5,124 93.5,24" fill="none" stroke="#FFFFFF" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/><polyline class="traco" style="animation-delay:0.20s" pathLength="1" points="125.5,24 125.5,124" fill="none" stroke="#FFFFFF" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/><polyline class="traco" style="animation-delay:0.32s" pathLength="1" points="157.5,124 157.5,24 191.5,92 225.5,24 225.5,124" fill="none" stroke="#FFFFFF" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/><polyline class="traco" style="animation-delay:0.44s" pathLength="1" points="257.5,24 257.5,124" fill="none" stroke="#CDE6FA" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/><polyline class="traco" style="animation-delay:0.56s" pathLength="1" points="289.5,124 319.5,24 349.5,124" fill="none" stroke="#CDE6FA" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g transform="translate(352 4) scale(.74)"><g class="entra"><g class="ola"><g class="flutua">
+<path d="M63,94 V38 A4,4 0 0 1 67,34 H73.667 V44 H79.667 V34 H90.333 V44 H96.333 V34 H103 A4,4 0 0 1 107,38 V94 Z" fill="#033E86" transform="translate(0 10)"/><path d="M133,94 V38 A4,4 0 0 1 137,34 H143.667 V44 H149.667 V34 H160.333 V44 H166.333 V34 H173 A4,4 0 0 1 177,38 V94 Z" fill="#033E86" transform="translate(0 10)"/>
+<path d="M63,94 V38 A4,4 0 0 1 67,34 H73.667 V44 H79.667 V34 H90.333 V44 H96.333 V34 H103 A4,4 0 0 1 107,38 V94 Z" fill="#2677D9"/><path d="M133,94 V38 A4,4 0 0 1 137,34 H143.667 V44 H149.667 V34 H160.333 V44 H166.333 V34 H173 A4,4 0 0 1 177,38 V94 Z" fill="#2677D9"/>
+<path d="M63,94 V38 A4,4 0 0 1 67,34 H73.667 V44 H79.667 V34 H90.333 V44 H96.333 V34 H103 A4,4 0 0 1 107,38 V94 Z" fill="#0555B4" transform="translate(0 4)"/><path d="M133,94 V38 A4,4 0 0 1 137,34 H143.667 V44 H149.667 V34 H160.333 V44 H166.333 V34 H173 A4,4 0 0 1 177,38 V94 Z" fill="#0555B4" transform="translate(0 4)"/>
+<path d="M58 196 L58 236 L100 206 Z" fill="#033E86" stroke="#033E86" stroke-width="6" stroke-linejoin="round"/>
+<rect x="30" y="72" width="180" height="140" rx="46" fill="#033E86"/>
+<rect x="30" y="60" width="180" height="140" rx="46" fill="#2677D9"/>
+<rect x="30" y="65" width="180" height="135" rx="44" fill="#0555B4"/>
+<path d="M58 186 L58 226 L100 196 Z" fill="#0555B4" stroke="#0555B4" stroke-width="6" stroke-linejoin="round"/>
+<rect x="52" y="86" width="136" height="92" rx="32" fill="#041631"/>
+<rect x="52" y="93" width="136" height="85" rx="30" fill="#08244C"/>
+<rect x="66" y="100" width="26" height="6" rx="3" fill="#E6F4FF" opacity=".14"/>
+<g class="brilho"><circle cx="155" cy="53" r="5" fill="#FFB81C"/><circle cx="153.5" cy="51.5" r="1.7" fill="#FFE7A8"/></g>
+<g class="olhos" fill="none" stroke="#E6F4FF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+  <polyline points="84,134 96,117 108,134"/><polyline points="132,134 144,117 156,134"/>
+</g>
+<polyline class="boca" points="107,151.5 120,160.5 133,151.5" fill="none" stroke="#E6F4FF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></g></g></g></g>
+</svg>
