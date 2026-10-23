@@ -15,10 +15,19 @@
   &nbsp;·&nbsp;
   <a href="https://vimia.cidadeberco.com/app">Abrir a app</a>
   &nbsp;·&nbsp;
-  <a href="https://taikai.network/cmguimaraes/hackathons/hack4guimaraes2035/projects/cmvjxzu7000dfhlplxlcyyrcz/idea">Ver a candidatura</a>
+  <a href="https://vimia.cidadeberco.com/vimia/business">VIMIA Empresas</a>
+  &nbsp;·&nbsp;
+  <a href="https://taikai.network/cmguimaraes/hackathons/hack4guimaraes2035/projects/cmvjxzu7000dfhlplxlcyyrcz/idea">Candidatura</a>
 </p>
 
 <br>
+
+A informação para tratar de um assunto com a Câmara existe, mas está espalhada por páginas de serviços, regulamentos, tabelas de taxas e formulários escritos para quem já conhece os procedimentos. A VIMIA leu tudo isso para que mais ninguém tenha de o fazer.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/numeros-escuro.svg">
+  <img src="assets/numeros-claro.svg" width="100%" alt="721 páginas do portal, 2.821 PDFs municipais, 54 procedimentos e 4 formulários oficiais.">
+</picture>
 
 ### <img src="assets/icons/conversa.svg" width="28" align="center" alt=""> &nbsp;Comece pelo que precisa de fazer
 
@@ -32,37 +41,54 @@ A conversa guarda o contexto, por isso nada tem de ser explicado duas vezes.
 
 ### <img src="assets/icons/formulario.svg" width="28" align="center" alt=""> &nbsp;Da conversa ao formulário
 
-Vai organizar uma festa com música ao vivo? O dia, o horário e o local que contou à VIMIA passam diretamente para o requerimento. Cada campo mostra de onde veio a informação e pode ser corrigido antes de descarregar o PDF, com o aspeto do impresso oficial da Câmara.
+Vai organizar uma festa com música ao vivo? O dia, o horário e o local que contou à VIMIA passam diretamente para o requerimento. Cada campo pode ser revisto e corrigido antes de descarregar o PDF, com o aspeto do impresso oficial da Câmara.
 
 Hoje a VIMIA já prepara a **licença especial de ruído**, o **horário especial de funcionamento**, a **atribuição de número de porta** e as **petições diversas**. A pessoa revê, assina e entrega.
 
 ### <img src="assets/icons/fontes.svg" width="28" align="center" alt=""> &nbsp;Com a fonte à vista
 
-Cada resposta indica onde foi buscar a informação, com ligação direta para o documento municipal. Por trás estão **54 procedimentos** organizados a partir de fontes oficiais.
+Cada resposta indica onde foi buscar a informação, com ligação para o documento oficial. Para quem não sabe por onde começar, o guia **«Que licença preciso?»** faz meia dúzia de perguntas e aponta o caminho.
 
-Para quem não sabe por onde começar, o guia **«Que licença preciso?»** faz meia dúzia de perguntas sobre obras em casa, restauração ou ocupação da via pública e aponta o caminho.
+A VIMIA apresenta-se como inteligência artificial desde a primeira mensagem e só pede dados pessoais quando são precisos para um documento. Informa e prepara. A decisão fica sempre com os serviços municipais.
 
 <br clear="right">
 
+### <img src="assets/icons/empresas.svg" width="28" align="center" alt=""> &nbsp;VIMIA Empresas
+
+O primeiro servidor MCP municipal do país. As empresas ligam o ERP, a gestão documental ou o seu próprio agente de IA à VIMIA e tratam de licenciamentos, obras e ocupação da via pública sem sair dos sistemas que já usam.
+
+Cada pedido chega completo e rastreável, com autenticação oficial e confirmação humana. Menos burocracia, mais razões para instalar a sede em Guimarães.
+
 ### <img src="assets/icons/telemovel.svg" width="28" align="center" alt=""> &nbsp;Feita em Guimarães
 
-A VIMIA vive no portal e no telemóvel, e pode ser instalada no ecrã principal como qualquer outra app. Lá ficam as conversas, os formulários e o acompanhamento dos pedidos.
+As duas torres que usa na cabeça vêm do Castelo. Fala português de Portugal, explica cada termo administrativo quando ele aparece e pode ser instalada no ecrã principal do telemóvel como qualquer outra app.
 
-As duas torres que usa na cabeça vêm do Castelo. Fala português de Portugal e explica cada termo administrativo quando ele aparece, sem obrigar ninguém a decifrar o «juridiquês».
+Por dentro, funciona com diferentes modelos de linguagem e está preparada para receber o **AMÁLIA**, o modelo português, a correr em infraestrutura própria.
 
 ### <img src="assets/icons/futuro.svg" width="28" align="center" alt=""> &nbsp;Para onde vamos
 
-O próximo passo é um piloto com cidadãos e técnicos municipais, para medir quanto tempo a VIMIA poupa e perceber onde as pessoas ainda ficam presas.
-
-Com a Câmara, queremos ligar a Chave Móvel Digital, submeter pedidos e acompanhar processos sem sair da conversa. Para as empresas, propomos uma ligação por MCP, para que os seus próprios agentes de IA tratem destes assuntos a partir dos sistemas que já usam.
+O próximo passo é um piloto com cidadãos e técnicos municipais. Com a Câmara, queremos ligar a Chave Móvel Digital, submeter pedidos e acompanhar processos sem sair da conversa.
 
 Queremos que, em Guimarães, tratar de um assunto com a Câmara comece sempre da mesma forma: **«preciso de tratar disto»**.
 
-<br>
-
 <p align="center">
+  <br>
   <a href="https://vimia.cidadeberco.com/assistente"><b>Conheça a VIMIA →</b></a>
+  <br><br>
 </p>
+
+### <img src="assets/icons/equipa.svg" width="28" align="center" alt=""> &nbsp;A equipa
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/equipa-escuro.svg">
+  <img src="assets/equipa-claro.svg" width="100%" alt="Miguel Freitas, estudante de Ciências da Computação. Simão Quintela, mestrando em Matemática e Computação. Vítor Ribeiro, developer na Play Solana.">
+</picture>
+
+<p align="center"><sub>
+  <a href="https://github.com/MrNameless10">Miguel</a> &nbsp;·&nbsp;
+  <a href="https://github.com/SimaoQuintela">Simão</a> &nbsp;·&nbsp;
+  <a href="https://github.com/vitorribeiro99">Vítor</a>
+</sub></p>
 
 <br>
 
@@ -70,5 +96,3 @@ Queremos que, em Guimarães, tratar de um assunto com a Câmara comece sempre da
   <source media="(prefers-color-scheme: dark)" srcset="assets/parceiros-escuro.svg">
   <img src="assets/parceiros-claro.svg" width="100%" alt="Feito por AIO Studio. Desafio do Município de Guimarães no Hack4Guimarães 2035, na plataforma TAIKAI.">
 </picture>
-
-<sub>[AIO Studio](https://aiostudio.xyz) é [Miguel Freitas](https://taikai.network/mrnameless10), [Simão Quintela](https://taikai.network/squintela24) e [Vítor Ribeiro](https://taikai.network/vitor933). Desafio «Falar com a Câmara sem Burocracia».</sub>
